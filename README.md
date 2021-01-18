@@ -23,7 +23,7 @@ React-based Google Books Search app. This assignment requires you to create Reac
 All dependencies are included in the package.json. In your bash/terminal, type  the command "npm i" to install the necessary node modules.
 
 ## **Usage**
-![DEMO]( images/googlebooks.gif)
+![DEMO]( images/googlebook.gif)
 
 ## **License**
 This project is covered under the N/A.
